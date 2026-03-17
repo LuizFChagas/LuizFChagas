@@ -11,9 +11,15 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante focado no desenvolvimento de sistemas, organização de dados e automação de processos.
+Sou estudante de Engenharia de Computação com foco no desenvolvimento de sistemas e soluções orientadas a dados. Tenho interesse em backend, análise de dados e automação de processos.
 
-Tenho interesse em backend e análise de dados, desenvolvendo projetos que resolvem problemas reais.
+Gosto de transformar problemas reais em soluções práticas, utilizando tecnologia para otimizar fluxos, organizar informações e melhorar a eficiência de sistemas.
+
+Tenho experiência com desenvolvimento em Python, Java e JavaScript, além de trabalhar com estruturação de dados e ferramentas como Power BI e PostgreSQL.
+
+Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projetos que unem organização, lógica e aplicação prática no mundo real.
+
+Tenho como objetivo crescer como desenvolvedor, construindo sistemas cada vez mais estruturados, eficientes e escaláveis.
 
 ---
 
@@ -36,29 +42,57 @@ Tenho interesse em backend e análise de dados, desenvolvendo projetos que resol
 
 ## 📌 Projetos em Destaque
 
-### 🐍 Snake Game – Java  
-Jogo desenvolvido com arquitetura modular utilizando JPMS  
-🔗 [Ver projeto](https://github.com/LuizFChagas/snake-game-java)
+### 🐍 Snake Game – Java
+
+![Snake Game](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772494125443.jfif)
+
+Desenvolvimento de um jogo clássico utilizando Java 21 com foco em arquitetura modular.
+
+O projeto foi estruturado com JPMS, separando responsabilidades entre lógica do jogo, renderização gráfica e organização do sistema, garantindo escalabilidade e manutenção eficiente.
+
+**Tecnologias:** Java 21, JPMS, AWT/Swing  
+
+🔗 Ver projeto:  
+[https://github.com/LuizFChagas/snake-game-java ](https://github.com/LuizFChagas/Snake-game-java) 
 
 ---
 
-### 🏋️ Sistema de Treinos  
-Sistema em Python com interface gráfica e persistência em JSON  
-🔗 [Ver projeto](https://github.com/LuizFChagas/gym-management-system)
+### 🏋️ Sistema de Gerenciamento de Treinos
+
+![Sistema de Treinos](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493897453.jfif)
+
+Sistema desenvolvido em Python com interface gráfica para gerenciamento de treinos e exercícios.
+
+Permite CRUD completo, organização por dias da semana e persistência de dados utilizando arquivos JSON.
+
+**Tecnologias:** Python, Tkinter, JSON  
+
+🔗 Ver projeto:  
+[https://github.com/LuizFChagas/gym-management-system ](https://github.com/LuizFChagas/projeto_treinos_de_academia) 
 
 ---
 
-### ⚙️ Automação – UNASP Store  
-Automação de processo real com redução de erros e melhoria de atendimento  
-🔗 [Ver projeto](https://github.com/LuizFChagas/process-automation)
+### ⚙️ Automação – UNASP Store
+
+![Automação](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493014402.jfif)
+
+Solução desenvolvida para automatizar um processo manual, reduzindo erros e tornando o atendimento mais rápido e eficiente.
+
+O sistema centraliza informações e permite busca ágil, melhorando o fluxo operacional.
+
+**Tecnologias:** Automação de processos, organização de dados   
 
 ---
 
-### 🍵 Catálogo Digital  
-Sistema de organização de produtos com foco em experiência do usuário  
-🔗 [Ver projeto](https://github.com/LuizFChagas/tea-catalog)
+### 🍵 Catálogo Digital de Produtos
 
----
+![Catálogo](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493171887.jfif)
+
+Criação de um catálogo digital estruturado para facilitar a busca de produtos e melhorar a experiência do usuário.
+
+Organiza informações de forma clara e acessível, auxiliando na tomada de decisão dos clientes.
+
+**Tecnologias:** Notion, organização de dados, UX  
 
 ## 📊 Estatísticas
 
