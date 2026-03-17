@@ -1,117 +1,74 @@
-# Luiz Felipe Chagas
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Luiz%20Felipe%20Chagas&fontSize=30&fontColor=fff)
 
-Estudante de Engenharia de Computação (5º semestre) com foco em desenvolvimento backend, ciência de dados e análise de dados.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer;Data+Science;Python+%7C+Java+%7C+SQL)
 
-Tenho interesse em construir soluções que envolvam organização de dados, automação de processos e desenvolvimento de sistemas estruturados. Minha principal linguagem é Python, além de experiência com Java e JavaScript.
+# 👋 Luiz Felipe Chagas
+
+💻 Estudante de Engenharia de Computação  
+🚀 Backend • Data Science • Data Analysis  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧠 Sobre mim
 
-**Linguagens**
-- Python
-- Java
-- JavaScript
+Sou estudante focado no desenvolvimento de sistemas, organização de dados e automação de processos.
 
-**Banco de Dados**
-- PostgreSQL
-- Modelagem de dados
-- Estruturação de dados
+Tenho interesse em backend e análise de dados, desenvolvendo projetos que resolvem problemas reais.
 
-**Ferramentas**
-- Git e GitHub
-- Power BI
-- Visual Studio Code
+---
+
+## 🚀 Tecnologias
+
+### 👨‍💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄 Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🐍 Snake Game – Java 21 (Arquitetura Modular)
-
-**Descrição:**  
-Desenvolvimento de um jogo da cobrinha utilizando Java 21 com foco em arquitetura modular e boas práticas de organização de código.
-
-**Problema:**  
-Projetos simples normalmente não exploram organização e estrutura profissional, dificultando a escalabilidade e manutenção.
-
-**Solução:**  
-Implementação utilizando JPMS, separando lógica, renderização e configuração.
-
-**Tecnologias:**
-- Java 21
-- JPMS
-- AWT / Swing
-
-🔗 **Repositório:**  
-[https://github.com/LuizFChagas/snake-game-java](https://github.com/LuizFChagas/Snake-game-java)
+### 🐍 Snake Game – Java  
+Jogo desenvolvido com arquitetura modular utilizando JPMS  
+🔗 [Ver projeto](https://github.com/LuizFChagas/snake-game-java)
 
 ---
 
-### 🏋️ Sistema de Gerenciamento de Treinos (Python)
-
-**Descrição:**  
-Sistema para gerenciamento de treinos, exercícios e dados físicos.
-
-**Problema:**  
-Dificuldade em organizar treinos e acompanhar dados de forma estruturada.
-
-**Solução:**  
-Aplicação com interface gráfica para cadastro, edição e consulta.
-
-**Tecnologias:**
-- Python
-- Tkinter
-- JSON
-
-🔗 **Repositório:**  
-[https://github.com/LuizFChagas/gym-management-system](https://github.com/LuizFChagas/projeto_treinos_de_academia)
+### 🏋️ Sistema de Treinos  
+Sistema em Python com interface gráfica e persistência em JSON  
+🔗 [Ver projeto](https://github.com/LuizFChagas/gym-management-system)
 
 ---
 
-### ⚙️ Automação de Processo – UNASP Store
-
-**Descrição:**  
-Digitalização de um processo manual de verificação de funcionários.
-
-**Problema:**  
-Processo lento, manual e sujeito a erros.
-
-**Solução:**  
-Planilha automatizada com busca rápida e atualização em tempo real.
-
-**Tecnologias:**
-- Excel / Google Sheets
-- Estruturação de dados
+### ⚙️ Automação – UNASP Store  
+Automação de processo real com redução de erros e melhoria de atendimento  
+🔗 [Ver projeto](https://github.com/LuizFChagas/process-automation)
 
 ---
 
-### 🍵 Catálogo Digital de Chás – UNASP Store
-
-**Descrição:**  
-Catálogo digital de mais de 180 produtos.
-
-**Problema:**  
-Dificuldade na busca de produtos e informações.
-
-**Solução:**  
-Sistema organizado no Notion para consulta rápida.
-
-**Tecnologias:**
-- Notion
-- Organização de dados
+### 🍵 Catálogo Digital  
+Sistema de organização de produtos com foco em experiência do usuário  
+🔗 [Ver projeto](https://github.com/LuizFChagas/tea-catalog)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFChagas&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFChagas&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFChagas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFChagas&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/luizfchagas/
-- GitHub: https://github.com/LuizFChagas
+🔗 LinkedIn: https://www.linkedin.com/in/luizfchagas/  
+🔗 GitHub: https://github.com/LuizFChagas
