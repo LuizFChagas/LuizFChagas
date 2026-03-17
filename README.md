@@ -74,7 +74,10 @@ Permite CRUD completo, organização por dias da semana e persistência de dados
 
 ### ⚙️ Automação – UNASP Store
 
-![Automação](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493014402.jfif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493015370.jfif" width="45%" />
+  <img src="https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493014402.jfif" width="45%" />
+</p>
 
 Solução desenvolvida para automatizar um processo manual, reduzindo erros e tornando o atendimento mais rápido e eficiente.
 
@@ -86,7 +89,10 @@ O sistema centraliza informações e permite busca ágil, melhorando o fluxo ope
 
 ### 🍵 Catálogo Digital de Produtos
 
-![Catálogo](https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493171887.jfif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493171887.jfif" width="45%" />
+  <img src="https://raw.githubusercontent.com/LuizFChagas/LuizFChagas/main/1772493171746.jfif" width="45%" />
+</p>
 
 Criação de um catálogo digital estruturado para facilitar a busca de produtos e melhorar a experiência do usuário.
 
@@ -94,6 +100,8 @@ Organiza informações de forma clara e acessível, auxiliando na tomada de deci
 
 **Tecnologias:** Notion, organização de dados, UX  
 
+ ---
+ 
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFChagas&show_icons=true&theme=tokyonight)
